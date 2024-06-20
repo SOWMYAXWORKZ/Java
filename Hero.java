@@ -3,6 +3,7 @@ class Hero{
 	
 	
 	System.out.println("HERO: Prabhas");
+	// git clone
 	// git status
 	// git add ./
 	// git status
@@ -10,7 +11,11 @@ class Hero{
 	// git config --global user.email "sowmyamvs.xworkz@gmail.com"
 	// git config -l
 	// git config --global user.name "SOWMYAXWORKZ"
-	// to conform tht uese
+	// to conform tht use the command git config -l
+	// git status
+	// git add Hero.java
+	// git commit -m "hero class"
+	// git push origin main 
 	
 	
 	
