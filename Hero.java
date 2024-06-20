@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class Hero{
 	public static void main(String hero[]){
 	
@@ -26,4 +27,22 @@ class Hero{
 
 
 
+=======
+class Hero{
+	public static void main(String hero[]){
+	
+	
+	System.out.println("HERO: Prabhas");
+	
+	
+	
+	
+	
+	
+	
+	}
+
+
+
+>>>>>>> e717a1502c73a138f05759f054888452c064a783
 }
