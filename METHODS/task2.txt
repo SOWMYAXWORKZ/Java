@@ -1,0 +1,22 @@
+Projector  --> display()
+Podium -->hold()
+Camera --> captureImage()
+Grinder --> prepareBatter()
+Satelite --> provideSignals()
+Telivision --> entertain()
+Dam --> storeWater()
+WindMill --> produceElectricity()
+Games --> play()
+TubeLight --> giveLight()
+Food --> giveEnergy()
+Plants --> giveOxygen()
+Medicines --> cureDiseases()
+ALcohol --> gateWayToHeaven()
+Shed -->parking()
+
+
+// public static void namee(){
+	return;
+	
+}
+

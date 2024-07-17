@@ -1,0 +1,46 @@
+class OttDisney{
+	
+	static String top10Movies[] = {"Snow White and the Seven Dwarfs","Cinderella","Sleeping Beauty","Sound of Metal","The Boys in the Band ","Aladdin","Salt","Iron Man","The Lion King","Mulan"};
+	
+	static String englishMovies[] = {"The Vast of Night","Uncle Frank","Sylvie's Love","OneHome","I'm Your Woman","Red Notice","Don't Look Up","Enola Holmes 2","The Adam Project","Extraction 2",
+	"Danzerve","Bridgerton","Stranger Things","The Witcher","Sweet Tooth", "Your Honor","Eric","Outer Banks","Lupin","Sound of Metal","Emily in Paris","Unicorn Academy","The Out-Laws",
+	"Godzilla Minus One","The Tomorrow War"};
+	
+	static String teluguMovies[] ={"RRR","Baahubali: The Beginning","Baahubali: The Conclusion","Eega","Ala Vaikunthapurramuloo",
+	"Arjun Reddy","Geetha Govindam","Maharshi","Mahanati","Sarileru Neekevvaru","Fidaa","Majili","Bheeshma",
+	"Jersey","Dear Comrade","Bharat Ane Nenu","Srimanthudu","Uppena","Vakeel Saab","Ninnu Kori","Oh! Baby","Saaho","Jaanu","Darling","MrPerfect"};
+	
+	static String hindiMovies[] = {"Dangal","Chopsticks","Andhadhun","Article 15","Choked: Paisa Bolta Hai","Drishyam","Kuch Kuch Hota Hai","Kabir Singh","Ludo","The White Tiger",
+	"Bulbbul","The Kargil Girl","Pagglait","Sardar Udham","Stree","Thappad","Mimi","Sanju","Dil Dhadakne Do","Bareilly Ki Barfi","Drishyam",
+	"Pink","3 idiots","ye jawan ye diwani","quaitl"};
+	
+	public static void main(String netflix[]){
+	
+	System.out.println("TOP 10 MOVIES");
+	for(String top10Movie: top10Movies){     
+		System.out.println(top10Movie);
+	}
+	
+	System.out.println();
+	System.out.println("ENGLISH MOVIES");
+	for(String englishMovie: englishMovies){
+		System.out.println(englishMovie);
+		}
+		
+	System.out.println();	
+	System.out.println("TELUGU MOVIES");
+	for(String teluguMovie: teluguMovies){
+		System.out.println(teluguMovie);
+		}
+		
+	System.out.println();
+	System.out.println("HINDI MOVIES");
+	for(String hindiMovie: hindiMovies){
+		System.out.println(hindiMovie);
+		}
+	System.out.println();
+		
+	
+	}
+
+}
