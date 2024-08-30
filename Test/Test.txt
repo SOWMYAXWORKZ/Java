@@ -1,0 +1,26 @@
+
+
+TEST - 30/08/2024
+
+Polymorphism - It consists of one or more forms of same class . It has 2 types - compile time polymorphism and run time polymorphism 
+
+for an example -  class tea{
+						
+						public int teaId;
+						public String teaName;
+						
+						public void getTeaId(int teaId){
+						this.teaId = teaId;
+						}
+
+					}
+					
+					
+
+Inhertitance -  it acquries the properties of one clas  to another class such as Parent class/ super class/ base class 
+				to Child class/sub class/ dervied class.
+				
+				It uses the extends keyword
+				
+
+Encapsulation - it encapsulates within the class
