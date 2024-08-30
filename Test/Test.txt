@@ -2,25 +2,30 @@
 
 TEST - 30/08/2024
 
-Polymorphism - It consists of one or more forms of same class . It has 2 types - compile time polymorphism and run time polymorphism 
+Polymorphism - One single object behaving in many different forms in the given instance of time is called polyohorsim.
 
-for an example -  class tea{
-						
-						public int teaId;
-						public String teaName;
-						
-						public void getTeaId(int teaId){
-						this.teaId = teaId;
-						}
+Method overriding in order to achive the compile time polyohorsim 
+And run time polyohorsim 
 
-					}
-					
-					
+Polymorphism --> method overriding --> runtime polymorphism 
 
-Inhertitance -  it acquries the properties of one clas  to another class such as Parent class/ super class/ base class 
-				to Child class/sub class/ dervied class.
-				
-				It uses the extends keyword
-				
+We can use annotations such as @ Override  this understood it's coming from parent class
 
-Encapsulation - it encapsulates within the class
+Override method is done only when a method is already present in parent class.
+ 
+Inheritance - parent/ base/ super to Child/ derived/ sub
+
+The process of acquiring the property from one class to another class.
+It is always written with the class structure / class declaration .
+We can use the extends inside of class .
+Example - class ClassName extends A {
+}
+class A {
+}
+
+Is a relationship - inheritance 
+
+
+Encapsulation - it encapsulates within the class and can only be accessed by the methods of the class
+Has a relationship - encapsulation 
+private keyword is used.
